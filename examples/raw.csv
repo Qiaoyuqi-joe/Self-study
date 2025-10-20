@@ -1,0 +1,6 @@
+user_id,name,date,qty,price,note
+ 001 , Alice ,2025/10/01,2, 10.5 ,N/A
+002,Bob,2025-10-02, 3,9.99,
+002,Bob,2025-10-02,3,9.99,
+003,  charlie,10-03-2025,five,NA, delayed 
+,Dana,,,,
